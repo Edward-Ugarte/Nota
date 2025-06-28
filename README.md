@@ -1,5 +1,5 @@
 Nota
-Estos códigos formab parte de un laboratorio privado en cada repositorio publicado 
+Estos códigos forman parte de un laboratorio privado en cada repositorio publicado 
 Para uso académico, demostración o colaboración, contactame directamente.  
 No está permitido clonar, modificar o redistribuir sin autorización.
 
