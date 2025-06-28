@@ -1,4 +1,9 @@
-# Nota
+Nota
+Estos códigos formab parte de un laboratorio privado en cada repositorio publicado 
+Para uso académico, demostración o colaboración, contactame directamente.  
+No está permitido clonar, modificar o redistribuir sin autorización.
+
+
 # 🧪 Minilaboratorios de Econometría, Muestreo y Optimización Avanzada
 
 Este repositorio contiene una colección curada de minilaboratorios diseñados para abordar problemas complejos en estadística aplicada, econometría y técnicas cuantitativas. Aunque el código fuente no está disponible públicamente salvo que se ponga en contacto con el autor , la estructura y los objetivos de cada ejercicio se presentan aquí para fines de referencia académica o profesional.
